@@ -2,6 +2,21 @@
 
 Projet de CIR 2 - C++ / Qt
 
+### Compilation
+
+
+D'abord, on génère le Makefile:
+
+```bash
+    qmake
+```
+
+Ensuite, on exécute le Makefile:
+
+```bash
+    make
+```
+
 ### Utilisation
 Le jeu se termine quand l'un des joueurs atteint 5 points.
 
